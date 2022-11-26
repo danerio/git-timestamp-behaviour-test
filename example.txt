@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 An update from last week
+=======
+This my updated file. (11:09 yesterday)
+>>>>>>> parent of 8449193... 4) And then back to today
